@@ -1,0 +1,6 @@
+# Neovim plugin artifacts
+doc/tags
+*.mo
+
+# OS / editor noise
+.DS_Store
