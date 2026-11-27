@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: Error: joint has `range` but not `limited`. set the autolimits="true" compiler option, specify `limited` explicitly ("true" or "false"), or remove the `range` attribute.
+Element name 'shoulder_pan_joint', id 0, line 5

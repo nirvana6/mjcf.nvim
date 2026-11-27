@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: XML Error: unknown default class name 'no_such_class'
+Element 'geom', line 4
+

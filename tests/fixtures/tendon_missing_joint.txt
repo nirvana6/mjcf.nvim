@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ValueError: Error: joint 'missing_tendon_joint' not found in tendon 0, wrap 0
+Element name 'missing_tendon_joint', id 0, line 10
